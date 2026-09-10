@@ -1,8 +1,4 @@
 <?php
-/*
-Soma dos números em uma lista: Crie um programa
-que some todos os números em uma lista.
-*/
 
 $lista = [1,2,3,4,5];
 $soma = array_sum($lista);
